@@ -1,3 +1,6 @@
+\[ Aurion is the winner of the 2025 IEEE Automatic Speech Recognition and Understanding Hackathon. The solution is built in a 36 hour coding spree and currently is not HIPAA compliant. \]
+
+
 # AURION - Voice Recording & Analysis Application
 
 A full-stack voice recording application with real-time audio visualization, conversation analysis, and AI-powered insights.
