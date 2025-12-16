@@ -5,13 +5,13 @@
 <img src="aurion_certificate.jpg"></img>
 
 
-# AURION - Voice Recording & Analysis Application
+# AURION
 
 Community Health Workers (CHWs) are the heartbeat of public health. As trusted members of the communities they serve, they bridge the crucial gap between social services and the people who need them most. But today, this vital workforce is breaking under the strain. With only brief training, a single CHW acts as a lifeline for up to 20 patients a day—battling complex, outdated tools and drowning in administrative paperwork.
 
 The result? Critical symptoms are missed in conversation, and burnout is rampant among the 65,000 CHWs currently in the field.
 
-After deep interviews with frontline workers and the CEO of Pear Suite, we identified a critical need for support. Introducing our solution: A real-time, LLM-powered co-pilot designed specifically for Community Health Workers.
+After deep interviews with frontline workers and the CEO of Pear Suite, we identified a critical need for support. Introducing our solution: <strong>Aurion</strong>, a real-time, LLM-powered co-pilot designed specifically for Community Health Workers.
 
 By analyzing speech patterns, tone, and content in real-time, our tool acts as an intelligent partner during visits. It automatically detects risks across the five domains of Social Determinants of Health (SDOH) and handles the heavy lifting of documentation—filling out encounter forms and generating reports instantly. This allows CHWs to stop focusing on paperwork and start focusing on what matters most: the patient.
 
