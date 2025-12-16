@@ -294,16 +294,13 @@ Aurion/
 ├── backend/                      # FastAPI backend application
 │   ├── app/
 │   │   ├── main.py               # FastAPI app entry point
-│   │   ├── routes/               # API routes (WebSocket, etc.)
-│   │   └── ...
+│   │   └── routes/               # API routes (WebSocket, etc.)
 │   ├── forms/                    # Generated forms data
-│   ├── recorded_sessions/        # Audio recordings storage
+│   ├── recorded_sessions/        # Temporary Audio recordings storage
 │   ├── generated_reports/        # AI-generated reports
-│   ├── chw_sentence_db/          # ChromaDB vector database
 │   ├── requirements.txt          # Python dependencies
 │   ├── .env                      # Environment configuration
-│   ├── .gitignore
-│   └── chroma_generate.py        # ChromaDB setup script
+│   └── .gitignore
 │
 ├── .gitignore
 └── README.md                     # This file
@@ -327,7 +324,6 @@ Aurion/
 - CORS-enabled for cross-origin requests
 - OpenAI integration for AI-powered analysis
 - Audio file storage and management
-- ChromaDB vector database for semantic search
 - Auto-generated API documentation
 - Environment-based configuration
 
@@ -363,7 +359,6 @@ Visit [http://localhost:8000/redoc](http://localhost:8000/redoc) for clean, read
 - **Uvicorn** - Lightning-fast ASGI server
 - **WebSockets** - Real-time bidirectional communication
 - **OpenAI API** - AI-powered conversation analysis
-- **ChromaDB** - Vector database for embeddings
 - **Python-dotenv** - Environment configuration
 - **Pydantic** - Data validation
 
